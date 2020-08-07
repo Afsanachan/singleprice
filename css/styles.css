@@ -1,0 +1,86 @@
+body {
+   margin: 0;
+   font-family: 'Karla', sans-serif;
+   padding: 5% 20%;
+   background-color: hsl(204, 43%, 93%);
+   
+}
+
+h2 {
+   color: hsl(179, 62%, 43%);
+}
+.heading {
+   color: hsl(71, 73%, 54%)
+}
+
+.intro {
+   color: hsl(218, 22%, 67%);
+}
+
+.monthly {
+   color: hsl(204, 43%, 93%);
+  
+}
+
+.dollar {
+  color: rgb(212, 208, 208);
+  margin-bottom: 10px;
+}
+
+strong {
+   color: hsl(204, 43%, 93%);
+   font-size: 35px;
+}
+
+.full {
+   color: hsl(204, 43%, 93%); 
+   margin-top: 0;
+   margin-bottom: 50px;
+}
+
+p {
+  color: rgb(233, 231, 231); 
+}
+
+.why {
+  color: hsl(204, 9%, 90%);
+}
+
+.btn {
+   -webkit-border-radius: 5;
+   -moz-border-radius: 5;
+   border-radius: 5px;
+   font-family:'Karla', sans-serif;
+   color: #ffffff;
+   font-size: 20px;
+   background-color: hsl(71, 73%, 54%);
+   padding: 15px 100px 15px 100px;
+   text-decoration: none;
+   
+ }
+
+.top-container {
+   padding: 5%;
+   background-color: white;
+   width: 80%;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+.left-container {
+   background-color: hsl(179, 62%, 43%);
+   width: 35%;
+   height: 35%;
+   padding: 5%;
+   float: left;
+   border-bottom-left-radius: 10px;
+}
+
+.right-container {
+   background-color: hsl(179, 51%, 50%);
+   width: 35%;
+   height: 35%;
+   padding: 5%;
+   display: inline-block;
+   border-bottom-right-radius: 10px;
+}
